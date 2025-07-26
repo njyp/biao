@@ -1,5 +1,5 @@
-gur.gov.ua:443#gur.gov.ua
-fbi.gov:443#fbi.gov
+gur.gov.ua
+fbi.gov
 www.digitalocean.com:443#www.digitalocean.com
 www.udacity.com:443#www.udacity.com
 www.gco.gov.qa:443#www.gco.gov.qa
